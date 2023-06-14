@@ -65,8 +65,8 @@
 [![Thiago Jorge's GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=tjas&show_icons=true&count_private=true&card_width=500&locale=en&theme=dark#gh-dark-mode-only)](https://github.com/tjas#gh-dark-mode-only)
 [![Thiago Jorge's GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=tjas&show_icons=true&count_private=true&card_width=500&locale=en&theme=default#gh-light-mode-only)](https://github.com/tjas#gh-light-mode-only)
 
-[![Thiago Jorge's GitHub Languages Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tjas&layout=compact&count_private=true&show_icons=true&card_width=450&langs_count=6&locale=en&hide=html,jupyter%20notebook,dockerfile,css&theme=dark#gh-dark-mode-only)](https://github.com/tjas#gh-dark-mode-only)
-[![Thiago Jorge's GitHub Languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=tjas&layout=compact&count_private=true&show_icons=true&card_width=450&langs_count=6&locale=en&hide=html,jupyter%20notebook,dockerfile,css&theme=default#gh-light-mode-only)](https://github.com/tjas#gh-light-mode-only)
+[![Thiago Jorge's GitHub Languages Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tjas&layout=compact&count_private=true&show_icons=true&card_width=450&langs_count=6&locale=en&hide=jupyter%20notebook,dockerfile,procfile&theme=dark#gh-dark-mode-only)](https://github.com/tjas#gh-dark-mode-only)
+[![Thiago Jorge's GitHub Languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=tjas&layout=compact&count_private=true&show_icons=true&card_width=450&langs_count=6&locale=en&hide=jupyter%20notebook,dockerfile,procfile&theme=default#gh-light-mode-only)](https://github.com/tjas#gh-light-mode-only)
 
 
 
