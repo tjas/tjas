@@ -55,6 +55,7 @@
 [![MySQL](https://img.shields.io/badge/-MySQL&nbsp;&nbsp;★★★☆☆-f8e098?style=flat-square&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL&nbsp;&nbsp;★☆☆☆☆-fdf8ea?style=flat-square&logoColor=white)](https://www.postgresql.org/)
 [![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure&nbsp;&nbsp;★★★☆☆-f8e098?style=flat-square&logoColor=white)](https://azure.microsoft.com/)
+[![AWS](https://img.shields.io/badge/-Microsoft_Azure&nbsp;&nbsp;★☆☆☆☆-fdf8ea?style=flat-square&logoColor=white)](https://azure.microsoft.com/)
 [![Docker](https://img.shields.io/badge/-Docker&nbsp;&nbsp;★★★★☆-f5d46f?style=flat-square&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes&nbsp;&nbsp;★★★☆☆-f8e098?style=flat-square&logoColor=white)](https://kubernetes.io/)
 [![Git](https://img.shields.io/badge/-Git&nbsp;&nbsp;★★★☆☆-f8e098?style=flat-square&logoColor=white)](https://git-scm.com/)
