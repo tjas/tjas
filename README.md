@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/-Website-888888?style=flat-square&logoColor=white&link=http://thiago-tjas.com/)](http://thiago-tjas.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-555555?style=flat-square&logoColor=white&link=https://github.com/tjas)](https://github.com/tjas)
 
-🇺🇸 Hi there! Be welcome! My name is Thiago Jorge. I'm currently working on software development and Artificial Intelligence at BRB Bank. I'm Computer Science Bachelor, Artificial Intelligence specialist, developer, like learning new technologies and work on big projects.
+🇺🇸 Hi there! Be welcome! My name is Thiago Jorge. I'm currently working in software development and Artificial Intelligence at BRB Bank. I'm Computer Science Bachelor, Artificial Intelligence specialist, developer, like learning new technologies and work on big projects.
 
 🇧🇷 Olá, seja bem-vindo! Meu nome é Thiago Jorge. Atualmente trabalho com desenvolvimento de software e Inteligência Artificial no Banco BRB. Sou Bacharel em Ciência da Computação, especialista em Inteligência Artificial, desenvolvedor, gosto de aprender novas tecnologias e trabalhar em grandes projetos.
 
